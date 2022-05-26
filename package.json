@@ -1,0 +1,15 @@
+{
+  "name": "threebies",
+  "version": "1.0.0",
+  "description": "Three js experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "threebies"
+  },
+  "author": "keyian",
+  "license": "ISC"
+}
